@@ -1,5 +1,6 @@
 {
   "homepage": "https://BadrMohammed.github.io/songs_sell",
+
   "name": "Adzily",
   "version": "0.1.0",
   "private": true,
@@ -35,6 +36,8 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+
+    
   },
   "eslintConfig": {
     "extends": [
